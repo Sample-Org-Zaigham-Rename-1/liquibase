@@ -12,4 +12,4 @@ xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liqui
 <!--<include file="changeLog_1.3.xml" relativeToChangelogFile="true"/>-->
 
 </databaseChangeLog>
-<!-- Testing change in org name which has been renamed now-->
+<!-- Testing change-->
